@@ -1,0 +1,1 @@
+This repository contains a MATLAB code example demonstrating an uncommon error related to logical indexing when NaN values are present in an array. The original code exhibits unexpected behavior due to how MATLAB handles comparisons involving NaN.  The solution provides a corrected approach to ensure robust handling of NaN values during logical indexing operations.
